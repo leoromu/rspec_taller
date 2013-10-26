@@ -1,4 +1,4 @@
 rspec_taller
 ============
 
-primer taller rspec y esta un desastre
+primer taller rspec y es un desastre
